@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🌱 # I’m currently learning
+🌱 I’m currently learning
   - Fullstack development, focused on React.js, Typescript, and Node.js
   - Microservices architecture
 
-🔭 # I’m currently working on
+🔭 I’m currently working on
   - Fun side projects like a browser synthesizer, co-op painting game, online Backgammon and more
   - Expanding my knowledge and curiosity
 
