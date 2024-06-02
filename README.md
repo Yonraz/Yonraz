@@ -5,7 +5,7 @@
   - Microservices architecture
 
 🔭 I’m currently working on
-  - Fun side projects like a browser synthesizer, co-op painting game, online Backgammon and more
+  - Fun side projects like a browser synthesizer, co-op painting game, online Backgammon and an AI sudoku solver.
   - Expanding my knowledge and curiosity
 
     
