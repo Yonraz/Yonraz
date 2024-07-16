@@ -8,7 +8,18 @@
   - Fun side projects like a browser synthesizer, co-op painting game, online Backgammon and an AI sudoku solver.
   - Expanding my knowledge and curiosity
 
+### My Skills
+#### Frontend
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,js,angular,html,css)](https://skillicons.dev)
 
+#### Backend
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,kafka,redis,jest,cs,dotnet,mysql,aws)](https://skillicons.dev)
+
+#### Containeriaztion & Cloud
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws)](https://skillicons.dev)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonraz&langs_count=4&hide=html,css,scss&layout=donut&theme=radical)
     
 
 <!--
