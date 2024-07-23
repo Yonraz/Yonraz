@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,js,angular,html,css)](https://skillicons.dev)
 
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,kafka,redis,jest,cs,dotnet,mysql,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,go,kafka,redis,jest,cs,dotnet,mysql,aws)](https://skillicons.dev)
 
 #### Containeriaztion & Cloud
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws)](https://skillicons.dev)
