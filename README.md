@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<div id="header" align="center">
+  <h3>Hi there 👋</h3>
+  <p>I'm Yonatan</p>
+</div>
+
 
 🌱 I’m currently learning
   - Fullstack development, focused on React.js, Typescript, and Node.js
@@ -19,8 +24,16 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws)](https://skillicons.dev)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonraz&langs_count=5&hide=html,css,scss&layout=donut&theme=radical)
-    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonraz&langs_count=5&hide=html,css,scss&layout=compact&theme=github_dark)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yonraz&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/yonatan-raz/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
 
 <!--
 **Yonraz/Yonraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
