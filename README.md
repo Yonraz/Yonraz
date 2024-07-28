@@ -27,7 +27,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonraz&langs_count=5&hide=html,css,scss&layout=compact&theme=github_dark)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yonraz&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/yonatan-raz/">
