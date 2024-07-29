@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws)](https://skillicons.dev)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonraz&langs_count=5&hide=html,css,scss&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonraz&langs_count=5&hide=html,css,scss&layout=donut&theme=github_dark)
 
 
 
