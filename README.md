@@ -15,7 +15,7 @@
 
 ### My Skills
 #### Frontend
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,js,angular,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,nextjs,js,angular,html,css)](https://skillicons.dev)
 
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,go,kafka,redis,jest,cs,dotnet,mysql,aws)](https://skillicons.dev)
