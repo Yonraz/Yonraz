@@ -13,14 +13,14 @@
   - Fun side projects like a browser synthesizer, co-op painting game, online Backgammon and an AI sudoku solver.
   - Expanding my knowledge and curiosity
 
-### My Skills
-#### Frontend
+## My Skills
+### Frontend
 [![My Skills](https://skillicons.dev/icons?i=ts,react,redux,nextjs,js,angular,html,css)](https://skillicons.dev)
 
-#### Backend
+### Backend
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,go,kafka,redis,jest,cs,dotnet,mysql,aws)](https://skillicons.dev)
 
-#### Containeriaztion & Cloud
+### Containeriaztion & Cloud
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws)](https://skillicons.dev)
 
 
